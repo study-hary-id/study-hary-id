@@ -13,9 +13,64 @@
 
 <h3 align="center">My Skill Stacks in Programming are :file_cabinet: :</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:ballot_box_with_check: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GO](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+<table>
+	<tr>
+		<td>Language</td>
+		<td>Progress Bar</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.javascript.com">
+				<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+			</a>
+		</td>
+		<td>
+			:ballot_box_with_check: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+			:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.python.org">
+				<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+			</a>
+		</td>
+		<td>
+			:ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check:
+			:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://whatwg.org">
+				<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+			</a>
+		</td>
+		<td>
+			:ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :black_square_button: :black_square_button:
+			:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.w3.org">
+				<img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+			</a>
+		</td>
+		<td>
+			:ballot_box_with_check: :ballot_box_with_check: :black_square_button: :black_square_button: :black_square_button:
+			:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://golang.org">
+				<img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white">
+			</a>
+		</td>
+		<td>
+			:ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :ballot_box_with_check: :black_square_button:
+			:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
+		</td>
+	</tr>
+</table>
