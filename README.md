@@ -59,4 +59,4 @@
 
 <hr>
 
-<h3 align="center">💻 Check out my repositories ⬇️ </h2>
+<h1 align="center">💻 Check out my repositories ⬇️ </h1>
