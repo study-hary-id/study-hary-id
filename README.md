@@ -15,7 +15,7 @@
 
 <h3 align="center">My Skill Stacks in Programming are :file_cabinet: :</h3>
 
-<table>
+<table class="center">
 	<tr>
 		<td>Language</td>
 		<td>Progress Bar</td>
