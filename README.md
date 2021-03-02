@@ -1,3 +1,5 @@
+<link href="css/style.css" rel="stylesheet"></link>
+
 <h1 align="center">Hello, there :wave:</h1>
 <p align="center">
 	Nama saya Muhammad Ravie Haryansyah, seorang self thaugh learner yang menyukai teknologi seputar pengembangan web dan Artificial Intelligence
