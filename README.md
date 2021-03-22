@@ -1,6 +1,6 @@
 <h1 align="center">Hello, there :wave:</h1>
 <p align="center">
-	Nama saya Muhammad Ravie Haryansyah, seorang self thaugh learner yang menyukai teknologi seputar pengembangan web dan Artificial Intelligence
+	Nama saya Muhammad Ravie Haryansyah, seorang self taught learner yang menyukai teknologi seputar pengembangan web dan Artificial Intelligence
 	atau Machine Learning. Juga memiliki ketertarikan lebih terhadap FOSS dan bahasa pemrograman Python.
 	Tapi untuk saat ini saya sedang berfokus pada Backend Development.
 </p>
