@@ -1,16 +1,16 @@
 <h1 align="center">Hello, there :wave:</h1>
 <p align="center">
-	Nama saya Muhammad Ravie Haryansyah, seorang self taught learner yang menyukai teknologi seputar pengembangan web dan Artificial Intelligence
-	atau Machine Learning. Juga memiliki ketertarikan lebih terhadap FOSS dan bahasa pemrograman Python.
-	Tapi untuk saat ini saya sedang berfokus pada Backend Development.
+	I'm a self taught learner who likes technology around <em>web development</em> and
+	<strong>Artificial Intelligence</strong> or <strong>Machine Learning</strong>. 
+	Also has more interest in <strong>FOSS</strong> and <strong>Python</strong> programming language.
 </p>
 
 <hr>
 
 <h3 align="center">I'm also Interested in :desktop_computer: :</h3>
 <p align="center">
-	:card_file_box: Pengembangan web khususnya di <b>Backend Development</b> : Menggunakan Django, Flask, NodeJS, Mux dan Gin<br>
-	:bar_chart: <b>Artificial Intelligence/Machine Learning</b> : Computer Vision dan Image Processing
+	:card_file_box: Web development especially in <b>Backend Development</b> : Django, NodeJS and Mux<br>
+	:bar_chart: <b>Artificial Intelligence/Machine Learning</b> : Computer Vision and Image Processing
 </p>
 
 <hr>
@@ -36,8 +36,8 @@
 	<a href="https://www.djangoproject.com">
 		<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 	</a>&nbsp;
-	<a href="https://flask.palletsprojects.com">
-		<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
+	<a href="https://reactjs.org">
+		<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 	</a>&nbsp;
 	<a href="https://github.com">
 		<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
