@@ -2,15 +2,14 @@
 <p align="center">
 	I'm a self taught learner who likes technology around <em>web development</em> especially in
 	<strong>Backend Development</strong> and <strong>Artificial Intelligence</strong> or <strong>Machine Learning</strong>. 
-	Also has more interest in <strong>FOSS</strong>, <strong>Go</strong> lang and <strong>Python</strong> programming language.
-	I also have experience for <strong>Frontend Development</strong> for mobile and desktop application.
+	Also has more interest in designing, enhancing, and maintaining web applications using <strong>Go</strong> and <strong>Python</strong>.
 </p>
 
 <hr>
 
 <h3 align="center">I'm also Interested in :desktop_computer: :</h3>
 <p align="center">
-	:card_file_box: Web development especially in <b>Backend Development</b> : Django, NodeJS and Mux<br>
+	:card_file_box: Web development especially in <b>Backend Development</b> : Django and NodeJS<br>
 	:bar_chart: <b>Artificial Intelligence/Machine Learning</b> : Computer Vision and Image Processing
 </p>
 
@@ -40,11 +39,11 @@
 	<a href="https://www.djangoproject.com">
 		<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 	</a>&nbsp;
-	<a href="https://reactjs.org">
-		<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-	</a>&nbsp;
 	<a href="https://github.com">
 		<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+	</a>&nbsp;
+		<a href="https://git-scm.com">
+		<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
 	</a>&nbsp;
 	<a href="https://www.heroku.com">
 		<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
@@ -64,9 +63,6 @@
 	</a>&nbsp;
 	<a href="https://www.docker.com">
 		<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-	</a>&nbsp;
-	<a href="https://git-scm.com">
-		<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
 	</a>&nbsp;
 </p>
 
