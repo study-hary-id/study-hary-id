@@ -2,7 +2,7 @@
 <p align="center">
 	I'm a self taught learner who likes technology around <em>web development</em> especially in
 	<strong>Backend Development</strong> and <strong>Artificial Intelligence</strong> or <strong>Machine Learning</strong>. 
-	Also has more interest in designing, enhancing, and maintaining web applications using <strong>Go</strong> and <strong>Python</strong>.
+	Also has more interest in designing, enhancing, and maintaining web applications using <strong>Go</strong>, <strong>Python</strong>, and <strong>JavaScript</strong>.
 </p>
 
 <hr>
